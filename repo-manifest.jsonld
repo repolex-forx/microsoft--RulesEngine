@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/microsoft/RulesEngine/commit/b35f2be09bc1fd6eb0bfb78e928dae48b4d2737b",
       "git:hexsha": "b35f2be09bc1fd6eb0bfb78e928dae48b4d2737b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-10T05:21:37.974736+00:00"
     },
     {
       "@id": "https://repolex.ai/r/microsoft/RulesEngine/commit/90f84af52bef8f18200351260723901cdf43fd80",
